@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.1bedc495.chunk.css",
-    "main.js": "/static/js/main.d903777c.chunk.js",
-    "main.js.map": "/static/js/main.d903777c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.920840db.js",
-    "runtime-main.js.map": "/static/js/runtime-main.920840db.js.map",
-    "static/js/2.a8975aba.chunk.js": "/static/js/2.a8975aba.chunk.js",
-    "static/js/2.a8975aba.chunk.js.map": "/static/js/2.a8975aba.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.1bedc495.chunk.css.map": "/static/css/main.1bedc495.chunk.css.map",
-    "static/js/2.a8975aba.chunk.js.LICENSE.txt": "/static/js/2.a8975aba.chunk.js.LICENSE.txt"
+    "main.css": "/demosnowflake/static/css/main.1bedc495.chunk.css",
+    "main.js": "/demosnowflake/static/js/main.a42d61df.chunk.js",
+    "main.js.map": "/demosnowflake/static/js/main.a42d61df.chunk.js.map",
+    "runtime-main.js": "/demosnowflake/static/js/runtime-main.1782017f.js",
+    "runtime-main.js.map": "/demosnowflake/static/js/runtime-main.1782017f.js.map",
+    "static/js/2.7667963c.chunk.js": "/demosnowflake/static/js/2.7667963c.chunk.js",
+    "static/js/2.7667963c.chunk.js.map": "/demosnowflake/static/js/2.7667963c.chunk.js.map",
+    "index.html": "/demosnowflake/index.html",
+    "static/css/main.1bedc495.chunk.css.map": "/demosnowflake/static/css/main.1bedc495.chunk.css.map",
+    "static/js/2.7667963c.chunk.js.LICENSE.txt": "/demosnowflake/static/js/2.7667963c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.920840db.js",
-    "static/js/2.a8975aba.chunk.js",
+    "static/js/runtime-main.1782017f.js",
+    "static/js/2.7667963c.chunk.js",
     "static/css/main.1bedc495.chunk.css",
-    "static/js/main.d903777c.chunk.js"
+    "static/js/main.a42d61df.chunk.js"
   ]
 }
